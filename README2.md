@@ -49,10 +49,31 @@ Created a Navbar using Bootstrap. I did this because it will allow the site to w
 
 * The company logo will be displayed on the left, and the menu items will be populated on the right. 
 * I have decided that the NavBar menu will collapse from a list into the dropdown hamburger menu from md screen size and below.
-* When i created the navbar the menu items were appearing on the left right next to the main logo, i don't like this look, i pushed them to the right by inserting ml-auto into the following line of code 
-<div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav ml-auto">
-* When the hamburger menu is created and you click on it, the menu items appear on the left hand side, underneath the logo, this doesn't look good so i want them to populated below the hamburger menu itself. To solve this i used developer tools in chrome and highlighted the item im trying to change, its showing as a.nav-link - In my code i have inserted into the li class "ml-auto" This now pushes the item over to the right under the hamburger menu where i wanted it to go. I will do this for every li item in my menu so they all populate on the right.
+* When i created the navbar the menu items were appearing on the left right next to the main logo, i don't like this look, i pushed them to the right by inserting ml-auto into the following line of code:
+
+`<div class="collapse navbar-collapse" id="navbarNav">`
+
+`<ul class="navbar-nav ml-auto">`
+
+* When the hamburger menu is created and you click on it, the menu items appear on the left hand side, underneath the logo, this doesn't look good so i want them to populated below the hamburger menu itself. To solve this i used developer tools in chrome and highlighted the item im trying to change, its showing as a.nav-link - In my code i have inserted into the li class "ml-auto" (Code below)
+
+`<li class="nav-item active ml-auto">`
+
+This now pushes the items over to the right under the hamburger menu where i wanted it to go. I will do this for every li item in my menu so they all populate on the right.
+
+* I also want the NavBar to stick to the top of the page when people are scrolling up and down the page, this will allow them to navigate easily. To do this i have used the code sticky-top (Code Below) 
+
+`<nav class="navbar navbar-expand-lg sticky-top navbar-light">`
+
+### **The Footer**
+
+
+
+
+
+
+
+
 
 ## **DEPLOYMENT**
 
