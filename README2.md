@@ -67,7 +67,7 @@ This now pushes the items over to the right under the hamburger menu where i wan
 
 ### **The Footer**
 
-
+Again i have decided to use bootstrap for my footer. I have done this because i want my footer, like the nav bar, to react differently on different screen sizes. I have broken my footer down into 3 columns, left, centre, right. 
 
 
 
