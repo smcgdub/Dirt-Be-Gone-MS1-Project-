@@ -9,7 +9,11 @@
   background-color: #de369dff;
 }
 
-/* FOOTER --------------------------------------- */
+.nav-link {
+  font-size: 20px;
+}
+
+/* FOOTER ----------------------------------------------------------------- */
 #footer {
   background-color: #de369dff;
 }
@@ -29,4 +33,28 @@
   margin-bottom: 0px;
   padding-bottom: 10px;
   color: #ffffff;
+}
+
+.fa-facebook-square:before {
+  color: #ffffff;
+  font-size: 55px;
+  padding-right: 10px;
+}
+
+.fa-twitter-square:before {
+  color: #ffffff;
+  font-size: 55px;
+  padding-right: 10px;
+}
+
+.fa-instagram-square:before {
+  color: #ffffff;
+  font-size: 55px;
+  padding-right: 10px;
+}
+
+.fa-linkedin:before {
+  color: #ffffff;
+  font-size: 55px;
+  padding-right: 10px;
 }
