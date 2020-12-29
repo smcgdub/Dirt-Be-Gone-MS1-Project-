@@ -91,3 +91,34 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+/* CLEANING SERVICES --------------------------------------------------------------- */
+
+.card {
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.specialist-services-h2 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-top: 25px;
+}
+
+#cleaning-services-section {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+h4 i {
+  padding-left: 15px;
+  font-size: 22px;
+}
+
+.list-group-item {
+  color: black;
+}
+
+.contact-us-link {
+  padding-top: 20px;
+}
