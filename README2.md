@@ -1,14 +1,31 @@
-# **DIRT BE GONE - RESIDENTIAL CLEANING AND HANDYMAN SERVICES**
+# **Dirt Be Gone - Residential cleaning and handyman services website**
 
-The Dirt Be Gone website was built to provide people who live in the Dublin area easy online access to a range of residential cleaning and handyman services offered by the Dirt Be Gone company. 
+The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of the website is to provide people who live in the Dublin area with easy online access to a range of residential cleaning and handyman services offered by the Dirt Be Gone company. 
 
-## **UX**
+# **Table of contents** 
 
-This website is for anyone who owns, manages, or rents a residential property in the Dublin area that needs the use of a cleaner, housekeeper or handyman. 
+1. User Experience (UX)
+  * 1.1 Target Audience 
+2. Features
+3. Technologies/Languages Used
+4. Testing 
+5. Deployment
+6. Credits
+  * 6.1 Content
+  * 6.2 Media
+  * 6.3 Code
+  * 6.4 Acknowledgements  
+7. Contact 
+8. Disclaimer 
 
-I myself have owned an Airbnb property rentals business in Dublin for the last 5 years and have always found cleaning companies offer very poor websites for their services.
+## **1. User Experience (UX)**
 
-### **THE USER STORIES WOULD BE AS FOLLOWS:**
+1.1 Target Audience - This website is aimed at anyone who:
+
+* Owns, manages, or rents a residential property in the Dublin area that needs the use of a cleaner, housekeeper or handyman.
+
+
+### **User Stories:**
 
 I am a home owner and i have a large family, doing the ironing for my 5 children takes up a lot of my time, i would like some help doing this so i can spend more quality time with my family. **(End user goal)** I want to be able to review and enquire about using a weekly housekeeper to do the ironing for my family, and know what this will cost me at an hurly rate. **(Measurement for success would be an incoming enquiry from a customer looking to purchase this service)** 
 
@@ -18,7 +35,7 @@ I own a buy to let rental property. My current tenant who has been with me for 3
 
 INSERT WIRE FRAMES AS A PDF 
 
-## **FEATURES**  
+## Features
 
 * Feature 1 (About Us) - Allows any user to read more information on the company, when the were set up, why they were set up and what their mission statement is
 * Feature 2 (Cleaning Services) - On this page users can browse all of the services offered by the company and the starting price for each service. They can also click on the service they wish to purchase and then be directed to the contact us form so they can enquire about using this selected service. 
@@ -26,22 +43,23 @@ INSERT WIRE FRAMES AS A PDF
 * Feature 4 (FAQ's) - Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. 
 * Feature 5 (Contact us) - Customers can use this section to message the company and select which specific service they are interested in using. 
 
-## **FEATURES LEFT TO IMPLEMENT**
+## **Features Left To Implement**
 
 1. An online booking engine where customers can select the type of service they wish to use, and select the date and time they wish that service to start. 
 2. An online payment option so people can make payment for the service they wish to purchase 
 3. An invoicing system where the company can email invoices to customers that contains a payment link so they can pay online after the job is completed and payment is due. 
 4. A customer account and log in where customers can review all of their account details such as the name on their account, their current address, past services purchases, and any current services running (Example: weekly cleaning service)  
 
-## **TECHNOLOGIES USED**
+## **3. Technologies/Languages Used**
 
-* HTML
-* CSS
-* Bootstrap 
-* YouTube links 
-* Link to an external product providers website
+* [Gitpod](https://www.gitpod.io/) - Is the IDE recommended for Code Institute students and the one i chose to develop this project in.
+* [HTML5 - Hypertext Markup Language](https://html.com/html5/#What_is_HTML) - This is the markup language i used for this project.
+* [CSS - Cascading Style Sheet](https://en.wikipedia.org/wiki/CSS) - I used CSS to help alter and adjust the presentation of the website to create a pleasant user experience. 
+* [Bootstrap](https://getbootstrap.com/) - Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. Bootstrap 4 is the version i used for the development of this project.
+* [YouTube](https://www.youtube.com/) links - I used a link to a product review that is hosted on YouTube about a product that the company Dirt Be Gone offered to customers.  
+* [External Link](https://keysafe.co.uk/c500-keysafe.html#:~:text=The%20Supra%20C500%20coded%20Key,box%2C%20then%20look%20no%20further) to a third party website that has all of the technical details about a product that Dirt Be Gone offers to customers.
 
-## **TESTING**
+## **4. Testing**
 
 ### **The NavBar**
 
@@ -70,25 +88,43 @@ This now pushes the items over to the right under the hamburger menu where i wan
 Again i have decided to use bootstrap for my footer. I have done this because i want my footer, like the nav bar, to react differently on different screen sizes. I have broken my footer down into 3 columns, left, centre, right. 
 
 
+## **5. Deployment**
 
+## **6. Credits** 
 
+6.3: Code 
 
+* Majority of the code i used was bootstrap. Their [main documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) had lots of great information. 
 
+* I also came across a great bootstrap [cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/) online which i also used quite a bit. A big thanks to [HackerThemes](https://hackerthemes.com/) for making this available online.
 
-## **DEPLOYMENT**
+6.4: Acknowledgements
 
-## **CREDITS** 
+* A big thank you to my mentor Dick Vlaanderen who gave me great feedback on my initial ideas for the project
 
+* Also a huge thankyou to all of the tutor team at Code Institute who were always on hand whenever i needed their support 
 
+* A final big thank you to all of the other students, CI alumni and CI staff who were always willing to help out and advise on the official CI Slack channels 
 
+## **7. Contact**
+
+Feel free to contact me on any of the following channels 
+* Slack: 
+* [LinkedIn](https://www.linkedin.com/in/stephenmcgovern01/)
+* [Email](mailto:stephen_xyz1@hotmail.com)
+* [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
+
+## **8. Disclaimer**
+
+This website and all of its content is for educational purposes only.
+
+>
 The aim of the website if to provide any potential customer with: 
 
 * The background of the company and their mission statement 
 * The services the company offers along with a guide price for these services 
 * To allow potential customers to select a specific service and to contact the company directly and request the use of a service 
 
-
-
-
-
 On the website people can browse the services offered along with their prices, read testimonials from current and past customers, browse our FAQ section, read the companies mission statement, and also make a request for more information if they wish to use the companies service. 
+
+I myself have owned an Airbnb property rentals business in Dublin for the last 5 years and have always found cleaning companies offer very poor websites for their services.
