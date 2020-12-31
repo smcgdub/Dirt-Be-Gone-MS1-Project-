@@ -122,3 +122,52 @@ h4 i {
 .contact-us-link {
   padding-top: 20px;
 }
+
+/* OUR PROMISE --------------------------------------------------------------- */
+
+.our-promise-h1 {
+  margin-top: 20px;
+}
+
+.cleaner-image {
+  border-radius: 50%;
+}
+
+.fa-shield-alt:before {
+  padding-right: 10px;
+  font-size: 24px;
+}
+
+.fa-phone-square-alt:before {
+  padding-right: 10px;
+  font-size: 24px;
+}
+
+.fa-smile-beam:before {
+  padding-right: 10px;
+  font-size: 24px;
+}
+
+.fa-gem:before {
+  padding-left: 10px;
+  font-size: 24px;
+}
+
+.fa-question-circle:before {
+  padding-left: 10px;
+  font-size: 24px;
+}
+
+.fa-credit-card:before {
+  padding-left: 10px;
+  font-size: 24px;
+}
+
+.security-h3 {
+  padding-top: 40px;
+}
+
+.quality-guarantee-h3 {
+  padding-top: 40px;
+  padding-small-vertical: 10px;
+}
