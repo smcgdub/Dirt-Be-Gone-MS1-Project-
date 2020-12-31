@@ -175,6 +175,9 @@ h4 i {
 
 .faq-h1 {
   margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .btn-link {
@@ -194,4 +197,17 @@ h4 i {
 .btn-link.collapsed::after {
   content: '\002B';
   font-size: 24px;
+}
+
+.card-header {
+  background-color: rgba(0,0,0,.03);
+  border: 1px solid rgba(0,0,0,.125)
+}
+
+.card-body {
+  border: 1px solid rgba(0,0,0,.125)
+}
+
+.card {
+  padding-bottom: 1px;
 }
