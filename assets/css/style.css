@@ -211,3 +211,21 @@ h4 i {
 .card {
   padding-bottom: 1px;
 }
+
+/* CONTACT US --------------------------------------------------------------- */
+.form-group {
+  margin-bottom: 0px;
+  padding: 0px;
+  margin: auto;
+  width: 80%;
+}
+
+.radios {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.submit {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
