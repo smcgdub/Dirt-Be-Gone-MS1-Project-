@@ -205,12 +205,32 @@ h4 i {
 
 .security-h3 {
   padding-top: 40px;
+  margin-right: 3px;
+}
+
+.always-here-h3 {
+  margin-right: 3px;
+}
+
+.happy-with-cleaner-h3 {
+  margin-right: 3px;
 }
 
 .quality-guarantee-h3 {
   padding-top: 40px;
 }
 
+.security-p {
+  margin-right: 3px;
+}
+
+.always-here-p {
+  margin-right: 3px;
+}
+
+.happy-with-cleaner-p {
+  margin-right: 3px;
+}
 /* FAQ --------------------------------------------------------------- */
 
 .faq-h1 {
@@ -252,6 +272,37 @@ h4 i {
   padding-bottom: 1px;
 }
 
+#headingOne {
+  background-color: lightgray;
+}
+
+#headingTwo {
+  background-color: lightgray;
+}
+
+#headingThree {
+  background-color: lightgrey;
+}
+
+#headingFour {
+  background-color: lightgrey;
+}
+
+#headingFive {
+  background-color: lightgrey;
+}
+
+#headingSix {
+  background-color: lightgrey;
+}
+
+#headingSeven {
+  background-color: lightgrey;
+}
+
+#headingEight {
+  background-color: lightgrey;
+}
 /* CONTACT US --------------------------------------------------------------- */
 .form-group {
   margin-bottom: 0px;
