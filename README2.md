@@ -8,7 +8,7 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 ## **Table of contents** 
 
-1. User Experience (UX)
+### **1. User Experience (UX)**
   * 1.1 Target audience
   * 1.2 Visitor goals
   * 1.3 Business goals 
@@ -16,19 +16,42 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 1.5 Design choices
   * 1.6 Wireframes 
 
-2. Features
+### [**2. Features**](Features)
   * 2.1 The Navbar
   * 2.2 The Footer
-3. Technologies/Languages Used
-4. Testing 
-5. Deployment
-6. Credits
+  * 2.3 The Hero Image
+  * 2.4 Testimonials
+  * 2.5 About Us
+  * 2.6 Cleaning Services 
+  * 2.7 Our Promise
+  * 2.8 FAQ'S
+  * 2.9 Contact Us 
+  * 2.10 Features Left To Implement 
+
+### **3. Technologies/Languages Used**
+  * HTML5
+  * CSS
+  * Bootstrap (Version 4)
+  * YouTube
+  * External hyperlinks
+
+### **4. Testing**
+
+### **5. Deployment**
+
+### **6. Credits**
   * 6.1 Content
   * 6.2 Media
   * 6.3 Code
-  * 6.4 Acknowledgements  
-7. Contact 
-8. Disclaimer 
+  * 6.4 Acknowledgements
+
+### **7. Contact**
+  * LinkedIn
+  * Email
+  * Skype
+
+### **8. Disclaimer** 
+>
 
 ## **1. User Experience (UX)**
 
@@ -73,7 +96,7 @@ I own a buy to let rental property. My current tenant who has been with me for 3
 * I did some research as to what colours would be best to use for a cleaning company. A lot of the information i found from my web searches said that bright colours work well as they convey a bright/clean feel to them. Also white is the colour that is most associated with cleanliness, clean white sheets for example, so i wanted to incorporate white into the site as if it were a blank white canvas. 
 <br>
 
-* The text is all written in black as this is the colour that contrasts the best with a white background. 
+* The text is written in black as this is the colour that contrasts the best with a white background. 
 <br>
 
 * For my hyperlinks i wanted to use the standard blue that people are familiar with when browsing a website.
@@ -86,8 +109,11 @@ I own a buy to let rental property. My current tenant who has been with me for 3
 ![alt](assets/images/colours-used.png)
 <br>
 
-### **1.6 Wire frames** 
+* I used the website colour mind when deciding on which colours to use. The website uses a generator to help you select the best matching colour palettes for your project. The website can be found here:<br> 
+[Colour Mind Website Here](http://colormind.io/)
 
+### **1.6 Wire frames** 
+>
 ## **2. Features**
 
 ### **2.1 The Navbar**
@@ -105,19 +131,43 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **2.2 The Footer** 
 
-* Feature 1 (About Us) - Allows any user to read more information on the company, when the were set up, why they were set up and what their mission statement is
-* Feature 2 (Cleaning Services) - On this page users can browse all of the services offered by the company and the starting price for each service. They can also click on the service they wish to purchase and then be directed to the contact us form so they can enquire about using this selected service. 
-* Feature 3 (Our Promise) - Before purchasing a service from the company potential customers can read this section and know what kind of level of service and standards the company promise to achieve.
-* Feature 4 (FAQ's) - Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. 
-* Feature 5 (Contact us) - Customers can use this section to message the company and select which specific service they are interested in using. 
+* In the footer i have listed all of the companies contact details and also put all of the companies social media links. The navbar and the footer are identical on each page as to maintain cohesion no matter what page the user finds themselves on. 
 
-## **Features Left To Implement**
+### **2.3 The Hero image**
+
+* I wanted to use some great images here, so i have used a bootstrap carousel to show several images of different property interiors that are very clean to show the standard the cleaners work to. 
+
+### **2.4 Testimonials**
+
+* I have also used another bootstrap carousel below the hero images for customer reviews and testimonials.
+
+### **2.5 About Us Page**
+
+* Allows any user to read more information on the company, when the were set up, why they were set up, and what their mission statement is
+
+### **2.6 Cleaning Services Page**
+
+* On this page users can browse all of the services offered by the company. There is also some additional information on pricing. Users can also click on the service they are interested in purchasing and then be directed to the contact us form so they can supply contact details and any additional information about the job they need doing 
+
+### **2.7 Our Promise Page**
+
+* Before purchasing a service from the company potential customers can read this section and know what kind of level of service they can expect and the standards the company promise to achieve.
+
+### **2.8 FAQ Page**
+
+* Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. 
+
+### **2.9 Contact Us Page**
+
+* Users can use this section to message the company and select which specific service they are interested in using. The companies office address is also displayed via a Google map. 
+
+### **2.10 Features Left To Implement**
 
 1. An online booking engine where customers can select the type of service they wish to use, and select the date and time they wish that service to start. 
 2. An online payment option so people can make payment for the service they wish to purchase 
 3. An invoicing system where the company can email invoices to customers that contains a payment link so they can pay online after the job is completed and payment is due. 
 4. A customer account and log in where customers can review all of their account details such as the name on their account, their current address, past services purchases, and any current services running (Example: weekly cleaning service)  
-
+>
 ## **3. Technologies/Languages Used**
 
 * [Gitpod](https://www.gitpod.io/) - Is the IDE recommended for Code Institute students and the one i chose to develop this project in.
@@ -126,7 +176,7 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 * [Bootstrap](https://getbootstrap.com/) - Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. Bootstrap 4 is the version i used for the development of this project.
 * [YouTube](https://www.youtube.com/) links - I used a link to a product review that is hosted on YouTube about a product that the company Dirt Be Gone offered to customers.  
 * [External Link](https://keysafe.co.uk/c500-keysafe.html#:~:text=The%20Supra%20C500%20coded%20Key,box%2C%20then%20look%20no%20further) to a third party website that has all of the technical details about a product that Dirt Be Gone offers to customers.
-
+>
 ## **4. Testing**
 
 ### **The NavBar**
@@ -155,38 +205,43 @@ This now pushes the items over to the right under the hamburger menu where i wan
 
 Again i have decided to use bootstrap for my footer. I have done this because i want my footer, like the nav bar, to react differently on different screen sizes. I have broken my footer down into 3 columns, left, centre, right. 
 
-
+>
 ## **5. Deployment**
-
+>
 ## **6. Credits** 
 
 6.3: Code 
 
 * Majority of the code i used was bootstrap. Their [main documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) had lots of great information. 
 
-* I also came across a great bootstrap [cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/) online which i also used quite a bit. A big thanks to [HackerThemes](https://hackerthemes.com/) for making this available online.
+* I also came across this great bootstrap [cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/) online which i also used quite a bit. A big thanks to [HackerThemes](https://hackerthemes.com/) for making this available free online.
 
 6.4: Acknowledgements
 
-* A big thank you to my mentor Dick Vlaanderen who gave me great feedback on my initial ideas for the project
-
-* Also a huge thankyou to all of the tutor team at Code Institute who were always on hand whenever i needed their support 
-
-* A final big thank you to all of the other students, CI alumni and CI staff who were always willing to help out and advise on the official CI Slack channels 
-
+* A big thank you to my mentor Dick Vlaanderen who gave me great feedback on my initial ideas for the project.
+* Also a huge thankyou to all of the tutor team at Code Institute who were always on hand whenever i needed their support .
+* A final big thank you to all of the other students, CI alumni and CI staff who were always willing to help out and advise on the official CI Slack channels.
+>
 ## **7. Contact**
 
-Feel free to contact me on any of the following channels 
-* Slack: 
+Feel free to contact me on any of the following channels:
 * [LinkedIn](https://www.linkedin.com/in/stephenmcgovern01/)
 * [Email](mailto:stephen_xyz1@hotmail.com)
 * [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
-
+>
 ## **8. Disclaimer**
 
 This website and all of its content is for educational purposes only.
-
 >
+
+
+
+
+
+
+
+
+
 The aim of the website if to provide any potential customer with: 
 
 * The background of the company and their mission statement 
