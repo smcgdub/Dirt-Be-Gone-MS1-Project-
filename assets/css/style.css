@@ -211,11 +211,11 @@ h4 i {
   margin-right: 3px;
 }
 
-.always-here-h3 {
+.always-here-h3, .always-here-p {
   margin-right: 3px;
 }
 
-.happy-with-cleaner-h3 {
+.happy-with-cleaner-h3, .happy-with-cleaner-p {
   margin-right: 3px;
 }
 
@@ -227,13 +227,19 @@ h4 i {
   margin-right: 3px;
 }
 
-.always-here-p {
-  margin-right: 3px;
+.quality-guarantee-h3, .quality-guarantee-p {
+  margin-left: 3px;
 }
 
-.happy-with-cleaner-p {
-  margin-right: 3px;
+.do-a-good-job-h3, .do-a-good-job-p {
+  margin-left: 3px;
 }
+
+.easy-payments-h3, .easy-payments-p {
+  margin-left: 3px; 
+}
+
+
 /* FAQ --------------------------------------------------------------- */
 .faq-h1 {
   margin-top: 20px;
