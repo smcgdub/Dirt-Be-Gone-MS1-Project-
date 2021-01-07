@@ -215,8 +215,7 @@ Again i have decided to use bootstrap for my footer. I have done this because i 
 
 6.3: Code 
 
-* Majority of the code i used was bootstrap. Their [main documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) had lots of great information. 
-
+* Majority of the code i used was Bootstrap. Their [main documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) had lots of great information. 
 * I also came across this great bootstrap [cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/) online which i also used quite a bit. A big thanks to [HackerThemes](https://hackerthemes.com/) for making this available free online.
 
 6.4: Acknowledgements
