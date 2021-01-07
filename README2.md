@@ -16,7 +16,7 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 1.5 Design choices
   * 1.6 Wireframes 
 
-### [**2. Features**](Features)
+### [**2. Features**](#Features)
   * 2.1 The Navbar
   * 2.2 The Footer
   * 2.3 The Hero Image
@@ -32,6 +32,7 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * HTML5
   * CSS
   * Bootstrap (Version 4)
+  * Google fonts 
   * YouTube
   * External hyperlinks
 
@@ -174,6 +175,8 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 * [HTML5 - Hypertext Markup Language](https://html.com/html5/#What_is_HTML) - This is the markup language i used for this project.
 * [CSS - Cascading Style Sheet](https://en.wikipedia.org/wiki/CSS) - I used CSS to help alter and adjust the presentation of the website to create a pleasant user experience. 
 * [Bootstrap](https://getbootstrap.com/) - Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. Bootstrap 4 is the version i used for the development of this project.
+* [Google fonts](https://fonts.google.com/) - Launched in 2010 Google Fonts is a library of 1,023 free licensed font families.
+* [Font Awesome](https://fontawesome.com/) - Font Awesome is a font and icon toolkit based on CSS and Less. It was made by Dave Gandy for use with Bootstrap, and later was incorporated into the BootstrapCDN. Font Awesome has a 38% market share among those websites that use third-party font scripts on their platform.
 * [YouTube](https://www.youtube.com/) links - I used a link to a product review that is hosted on YouTube about a product that the company Dirt Be Gone offered to customers.  
 * [External Link](https://keysafe.co.uk/c500-keysafe.html#:~:text=The%20Supra%20C500%20coded%20Key,box%2C%20then%20look%20no%20further) to a third party website that has all of the technical details about a product that Dirt Be Gone offers to customers.
 >
