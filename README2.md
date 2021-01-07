@@ -1,12 +1,24 @@
-# **Dirt Be Gone - Residential cleaning and handyman services website**
+![alt](assets/images/dirt-be-gone-logo.png)
+
+# **Dirt Be Gone - Residential cleaning & handyman services**
+
+## **Introduction**
 
 The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of the website is to provide people who live in the Dublin area with easy online access to a range of residential cleaning and handyman services offered by the Dirt Be Gone company. 
 
-# **Table of contents** 
+## **Table of contents** 
 
 1. User Experience (UX)
-  * 1.1 Target Audience 
+  * 1.1 Target audience
+  * 1.2 Visitor goals
+  * 1.3 Business goals 
+  * 1.4 User stories 
+  * 1.5 Design choices
+  * 1.6 Wireframes 
+
 2. Features
+  * 2.1 The Navbar
+  * 2.2 The Footer
 3. Technologies/Languages Used
 4. Testing 
 5. Deployment
@@ -20,12 +32,21 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 ## **1. User Experience (UX)**
 
-1.1 Target Audience - This website is aimed at anyone who:
+### **1.1 Target Audience - This website is aimed at anyone who:**
 
 * Owns, manages, or rents a residential property in the Dublin area that needs the use of a cleaner, housekeeper or handyman.
 
+### **1.2 Visitor gaols** 
 
-### **User Stories:**
+* To allow visitors to the site to get some more background information about the company and to see what type of business services they offer the general public. 
+
+### **1.3 Business goals**
+
+* The aim of the website is to provide potential customers with information about the types of services the company offer, a rough guide to pricing, and to encourage interested parties to contact the company via the website so the company can follow up with quotes. 
+
+### **1.4 User Stories**
+
+As a visitor to the company website i expect/want/need
 
 I am a home owner and i have a large family, doing the ironing for my 5 children takes up a lot of my time, i would like some help doing this so i can spend more quality time with my family. **(End user goal)** I want to be able to review and enquire about using a weekly housekeeper to do the ironing for my family, and know what this will cost me at an hurly rate. **(Measurement for success would be an incoming enquiry from a customer looking to purchase this service)** 
 
@@ -33,9 +54,56 @@ I am a property manager, i manage a large number of residential properties. A ga
 
 I own a buy to let rental property. My current tenant who has been with me for 3 years is moving out of the property at the end of the month. **(End user goal)** After they move out I need to get the property deep cleaned before i can start advertising it again and holding viewings with new potential tenants. **(Measurement for success would be an incoming enquiry from a customer looking to purchase this service)**
 
-INSERT WIRE FRAMES AS A PDF 
+### **1.5 Design choices** 
 
-## Features
+* I wanted the website to have a bright and clean feel to it. Its for a cleaning company so i decided on bright clean colours. I didn't want lots of clutter on the pages as this can be common with websites for this type of business. I also wanted the site to be easy to navigate.
+
+#### FONTS
+
+* I decided i would use the Google fonts Raleway & Lato for this project. I chose these two fonts as modern, clean, easy to read and look well on both desktop and mobile devices.
+
+#### ICONS
+
+* I also decided i would use font awesome icons throughout the site. I did this because i believe icons make a site look better and also give the user an idea of the type of information that they are looking at.
+
+* I also used font awesome for the companies social media icons (Facebook, Twitter, Instagram, LinkedIn) located in the footer of the page. 
+
+#### COLOURS
+
+* I did some research as to what colours would be best to use for a cleaning company. A lot of the information i found from my web searches said that bright colours work well as they convey a bright/clean feel to them. Also white is the colour that is most associated with cleanliness, clean white sheets for example, so i wanted to incorporate white into the site as if it were a blank white canvas. 
+<br>
+
+* The text is all written in black as this is the colour that contrasts the best with a white background. 
+<br>
+
+* For my hyperlinks i wanted to use the standard blue that people are familiar with when browsing a website.
+<br>
+
+* Finally on the FAQ page i decided to use a light grey background for the question, and a white background for the answer. I initially went for an white background on both but i found that it was hard on the eyes to differentiate between the question and the answer, so i went with a grey background. 
+<br>
+
+* The main colour pallet can be found below.
+![alt](assets/images/colours-used.png)
+<br>
+
+### **1.6 Wire frames** 
+
+## **2. Features**
+
+### **2.1 The Navbar**
+
+* The Navbar i decided to use a standard Bootstrap 4.4 Navbar with brand. I did this because i wanted the company logo in the top left, and the menu items on the right. The menu items i decided on were 
+
+1. Home
+2. About Us
+3. Cleaning Services 
+4. Our Promise 
+5. FAQ
+6. Contact us
+
+The site also needs to be mobile responsive so i chose Bootstrap as it provided me with a quick and easy way of achieving this.
+
+### **2.2 The Footer** 
 
 * Feature 1 (About Us) - Allows any user to read more information on the company, when the were set up, why they were set up and what their mission statement is
 * Feature 2 (Cleaning Services) - On this page users can browse all of the services offered by the company and the starting price for each service. They can also click on the service they wish to purchase and then be directed to the contact us form so they can enquire about using this selected service. 

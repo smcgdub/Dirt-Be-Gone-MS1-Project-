@@ -14,7 +14,7 @@ body {
 /* NAVBAR -------------------------------------------------------------- */
 
 .navbar {
-  background-color: #de369dff;
+  background-color: #de369d;
 }
 
 .nav-link {
@@ -28,7 +28,7 @@ body {
 
 /* FOOTER ----------------------------------------------------------------- */
 #footer {
-  background-color: #de369dff;
+  background-color: #de369d;
 }
 
 .footer {
@@ -101,13 +101,13 @@ body {
 }
 
 .carousel-control-prev-icon {
-  background-color: #de369dff;
+  background-color: #de369d;
   margin-right: 10px;
   height: 50px;
 }
 
 .carousel-control-next-icon {
-  background-color: #de369dff;
+  background-color: #de369d;
   margin-left: 10px;
   height: 50px;
 }
