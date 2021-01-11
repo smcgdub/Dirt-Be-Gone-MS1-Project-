@@ -14,9 +14,9 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 1.3 Business goals 
   * 1.4 User stories 
   * 1.5 Design choices
-  * 1.6 Wireframes 
+  * 1.6 Wire frames 
 
-### [**2. Features**](#Features)
+### [**2. Features**](##**2.Features**)
   * 2.1 The Navbar
   * 2.2 The Footer
   * 2.3 The Hero Image
@@ -35,16 +35,16 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * Google fonts 
   * YouTube
   * External hyperlinks
+  * Balsamiq
 
 ### **4. Testing**
 
 ### **5. Deployment**
 
 ### **6. Credits**
-  * 6.1 Content
-  * 6.2 Media
-  * 6.3 Code
-  * 6.4 Acknowledgements
+  * 6.1 Media
+  * 6.2 Code
+  * 6.3 Acknowledgements
 
 ### **7. Contact**
   * LinkedIn
@@ -72,15 +72,27 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 As a visitor to the company website i expect/want/need
 
-I am a home owner and i have a large family, doing the ironing for my 5 children takes up a lot of my time, i would like some help doing this so i can spend more quality time with my family. **(End user goal)** I want to be able to review and enquire about using a weekly housekeeper to do the ironing for my family, and know what this will cost me at an hurly rate. **(Measurement for success would be an incoming enquiry from a customer looking to purchase this service)** 
+**I am a home owner and i have a large family, doing the ironing for my 5 children takes up a lot of my time, i would like some help doing this so i can spend more quality time with my family.**
 
-I am a property manager, i manage a large number of residential properties. A garden fence has blown down during a storm. **(End user goal)** I wish to locate a company that provides handyman services, the rough cost associated with this kind of repair work, and to request a call back from the company so i can schedule a date for the repair to be carried out. **(Measurement for success would be an incoming enquiry from a customer looking to purchase this service)** 
+* **(Expect/Want/Need)** I want to be able to get information on the company and the services they offer, and to then enquire about using a weekly housekeeper to do the ironing for my family, and know what this will cost me at an hurly rate. 
 
-I own a buy to let rental property. My current tenant who has been with me for 3 years is moving out of the property at the end of the month. **(End user goal)** After they move out I need to get the property deep cleaned before i can start advertising it again and holding viewings with new potential tenants. **(Measurement for success would be an incoming enquiry from a customer looking to purchase this service)**
+* **(Measurement for success)** This would be an incoming enquiry from a customer looking to purchase this service. 
+
+**I am a property manager, i manage a large number of residential properties. A garden fence has blown down during a storm.**
+
+* **(Expect/Want/Need)** I wish to locate a company that provides handyman services, the rough cost associated with this kind of repair work, and to request a call back from the company so i can schedule a date for the repair to be carried out. 
+
+* **(Measurement for success)** This would be an incoming enquiry from a customer looking to purchase this service. 
+
+**I own a buy to let rental property. My current tenant who has been with me for 3 years is moving out of the property at the end of the month.**
+
+* **(Expect/Want/Need)** After they move out I need to get the property deep cleaned before i can start advertising it again and holding viewings with new potential tenants. 
+
+* **(Measurement for success)** This would be an incoming enquiry from a customer looking to purchase this service.
 
 ### **1.5 Design choices** 
 
-* I wanted the website to have a bright and clean feel to it. Its for a cleaning company so i decided on bright clean colours. I didn't want lots of clutter on the pages as this can be common with websites for this type of business. I also wanted the site to be easy to navigate.
+I wanted the website to have a bright and clean feel to it. Its for a cleaning company so i decided on bright clean colours. I didn't want lots of clutter on the pages as this can be common with websites for this type of business. I also wanted the site to be easy to navigate.
 
 #### FONTS
 
@@ -106,14 +118,27 @@ I own a buy to let rental property. My current tenant who has been with me for 3
 * Finally on the FAQ page i decided to use a light grey background for the question, and a white background for the answer. I initially went for an white background on both but i found that it was hard on the eyes to differentiate between the question and the answer, so i went with a grey background. 
 <br>
 
-* The main colour pallet can be found below.
+* The main colour pallet can be found below.<br>
+
 ![alt](assets/images/colours-used.png)
-<br>
 
 * I used the website colour mind when deciding on which colours to use. The website uses a generator to help you select the best matching colour palettes for your project. The website can be found here:<br> 
 [Colour Mind Website Here](http://colormind.io/)
 
-### **1.6 Wire frames** 
+### **1.6 Wire Frames** 
+
+[Homepage Desktop](https://ibb.co/FXqfZ2d)<br>
+[Homepage Mobile](https://ibb.co/jTKg8HN)<br>
+[About Us Desktop](https://ibb.co/kMMdRGY)<br>
+[About Us Mobile](https://ibb.co/JdCHN2h)<br>
+[Cleaning Services Desktop](https://ibb.co/c18hbxd)<br>
+[Cleaning Services Mobile](https://ibb.co/7Sc3r1h)<br>
+[Our Promise Desktop](https://ibb.co/NxJbYtC)<br>
+[Our Promise Mobile](https://ibb.co/3zybq29)<br>
+[FAQ Desktop](https://ibb.co/k5csMF5)<br>
+[FAQ Mobile](https://ibb.co/TT4Z5Dz)<br>
+[Contact Us Desktop](https://ibb.co/Ln31KMw)<br>
+[Contact Us Mobile](https://ibb.co/FmNvxnZ)
 >
 ## **2. Features**
 
@@ -144,19 +169,19 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **2.5 About Us Page**
 
-* Allows any user to read more information on the company, when the were set up, why they were set up, and what their mission statement is
+* Allows any user to read more information on the company, when the were set up, why they were set up, and what their mission statement is. Here i have used some header tags, some paragraphs, and an image of a cleaner. 
 
 ### **2.6 Cleaning Services Page**
 
-* On this page users can browse all of the services offered by the company. There is also some additional information on pricing. Users can also click on the service they are interested in purchasing and then be directed to the contact us form so they can supply contact details and any additional information about the job they need doing 
+* On this page users can browse all of the services offered by the company. There is also some additional information on pricing. Users can also click on the service they are interested in purchasing and then be directed to the contact us form so they can supply contact information and any additional information about the service they are interested in. I used Bootstrap cards for this section.
 
 ### **2.7 Our Promise Page**
 
-* Before purchasing a service from the company potential customers can read this section and know what kind of level of service they can expect and the standards the company promise to achieve.
+* Before purchasing a service from the company potential customers can read this section and know what kind of level of service they can expect and the standards the company promise to achieve. I used an image of a cleaner for the center of the page and some headers and text around the image. On smaller screen sizes the image disappears and only text is displayed.  
 
 ### **2.8 FAQ Page**
 
-* Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. 
+* Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. Here i have used a Bootstrap accordion 
 
 ### **2.9 Contact Us Page**
 
@@ -178,14 +203,14 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 * [Google fonts](https://fonts.google.com/) - Launched in 2010 Google Fonts is a library of 1,023 free licensed font families.
 * [Font Awesome](https://fontawesome.com/) - Font Awesome is a font and icon toolkit based on CSS and Less. It was made by Dave Gandy for use with Bootstrap, and later was incorporated into the BootstrapCDN. Font Awesome has a 38% market share among those websites that use third-party font scripts on their platform.
 * [YouTube](https://www.youtube.com/) links - I used a link to a product review that is hosted on YouTube about a product that the company Dirt Be Gone offered to customers.  
-* [External Link](https://keysafe.co.uk/c500-keysafe.html#:~:text=The%20Supra%20C500%20coded%20Key,box%2C%20then%20look%20no%20further) to a third party website that has all of the technical details about a product that Dirt Be Gone offers to customers.
+* [External Link](https://keysafe.co.uk/c500-keysafe.html#:~:text=The%20Supra%20C500%20coded%20Key,box%2C%20then%20look%20no%20further) - to a third party website that has all of the technical details about a product that Dirt Be Gone offers to customers.
+* [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiAi_D_BRApEiwASslbJ_NXgCJLhWQ06W9sA_HcnQ4agJM5EJa4wWRNrXu6oJbIoz_zaiVBaRoCAScQAvD_BwE)- Balsamiq Wireframes is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard.
 >
 ## **4. Testing**
 
 ### **The NavBar**
 
-Created a Navbar using Bootstrap. I did this because it will allow the site to work on mobile, iPad and desktop and it will easier to set when these points come into play.
-
+* Created a Navbar using Bootstrap. I did this because it will allow the site to work on mobile, iPad and desktop and it will easier to set when these points come into play.
 * The company logo will be displayed on the left, and the menu items will be populated on the right. 
 * I have decided that the NavBar menu will collapse from a list into the dropdown hamburger menu from md screen size and below.
 * When i created the navbar the menu items were appearing on the left right next to the main logo, i don't like this look, i pushed them to the right by inserting ml-auto into the following line of code:
@@ -213,15 +238,22 @@ Again i have decided to use bootstrap for my footer. I have done this because i 
 >
 ## **6. Credits** 
 
-6.3: Code 
+### **6.1 Media** 
+
+ * All images of the apartments used in the carousel on the home page were provided by Dublin City Rentals
+* Image of the cleaner on the about us page belongs to 
+* Image of the cleaner on the our promise page belongs to
+
+### **6.2 Code** 
 
 * Majority of the code i used was Bootstrap. Their [main documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) had lots of great information. 
 * I also came across this great bootstrap [cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/) online which i also used quite a bit. A big thanks to [HackerThemes](https://hackerthemes.com/) for making this available free online.
+* For the FAQ page i wanted to use the accordion effect that Bootstrap offers. I came across [this video](https://www.youtube.com/watch?v=t5pJ-SYCZa0) tutorial on YouTube and used it for guidance to achieve the effect i wanted. A big thanks to the team over at [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA) for posting the guide.
 
-6.4: Acknowledgements
+### **6.3 Acknowledgements**
 
+* A huge thank you to all of the tutor team at Code Institute who were always on hand whenever i needed their support.
 * A big thank you to my mentor Dick Vlaanderen who gave me great feedback on my initial ideas for the project.
-* Also a huge thankyou to all of the tutor team at Code Institute who were always on hand whenever i needed their support .
 * A final big thank you to all of the other students, CI alumni and CI staff who were always willing to help out and advise on the official CI Slack channels.
 >
 ## **7. Contact**
@@ -235,21 +267,3 @@ Feel free to contact me on any of the following channels:
 
 This website and all of its content is for educational purposes only.
 >
-
-
-
-
-
-
-
-
-
-The aim of the website if to provide any potential customer with: 
-
-* The background of the company and their mission statement 
-* The services the company offers along with a guide price for these services 
-* To allow potential customers to select a specific service and to contact the company directly and request the use of a service 
-
-On the website people can browse the services offered along with their prices, read testimonials from current and past customers, browse our FAQ section, read the companies mission statement, and also make a request for more information if they wish to use the companies service. 
-
-I myself have owned an Airbnb property rentals business in Dublin for the last 5 years and have always found cleaning companies offer very poor websites for their services.
