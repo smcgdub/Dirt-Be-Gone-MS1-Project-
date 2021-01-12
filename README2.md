@@ -96,7 +96,7 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 
 #### FONTS
 
-* I decided i would use the Google fonts Raleway & Lato for this project. I chose these two fonts as modern, clean, easy to read and look well on both desktop and mobile devices.
+* I decided i would use the Google fonts [Raleway](https://fonts.google.com/specimen/Raleway?query=rale) & [Lato](https://fonts.google.com/specimen/Lato?query=lato) for this project. I chose these two fonts as modern, clean, easy to read and look well on both desktop and mobile devices.
 
 #### ICONS
 
@@ -144,6 +144,8 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 
 ### **2.1 The Navbar**
 
+![alt](assets/images/main-navbar.png)
+
 * The Navbar i decided to use a standard Bootstrap 4.4 Navbar with brand. I did this because i wanted the company logo in the top left, and the menu items on the right. The menu items i decided on were 
 
 1. Home
@@ -153,9 +155,13 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 5. FAQ
 6. Contact us
 
-The site also needs to be mobile responsive so i chose Bootstrap as it provided me with a quick and easy way of achieving this.
+The site also needs to be mobile responsive so i chose Bootstrap as it provided me with a quick and easy way of achieving this. On smaller screen sizes the navbar will collapse into a hamburger menu that when clicked will expand and reveal the nav bar items. 
+
+![alt](assets/images/navbar-hamburger.png)
 
 ### **2.2 The Footer** 
+
+![alt](assets/images/main-footer.png)
 
 * In the footer i have listed all of the companies contact details and also put all of the companies social media links. The navbar and the footer are identical on each page as to maintain cohesion no matter what page the user finds themselves on. 
 
@@ -165,7 +171,9 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **2.4 Testimonials**
 
-* I have also used another bootstrap carousel below the hero images for customer reviews and testimonials.
+![alt](assets/images/testimonials.png)
+
+* I have also used another bootstrap carousel below the hero images for customer reviews and testimonials. I also added a control next and control previous icon which allows users to browse forward and backward through the testimonials.  
 
 ### **2.5 About Us Page**
 
@@ -173,19 +181,27 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **2.6 Cleaning Services Page**
 
-* On this page users can browse all of the services offered by the company. There is also some additional information on pricing. Users can also click on the service they are interested in purchasing and then be directed to the contact us form so they can supply contact information and any additional information about the service they are interested in. I used Bootstrap cards for this section.
+![alt](assets/images/cleaning-services.png)
+
+* On this page users can browse all of the services offered by the company. There is also some additional information on pricing for some services. Users can browse the services that they are interested in purchasing and directly from here click a link to be directed to the contact us form. Here they provide their contact details and also have the ability to enter some additional information about the service they are interested in. I decided to use Bootstrap cards for this section.
 
 ### **2.7 Our Promise Page**
 
 * Before purchasing a service from the company potential customers can read this section and know what kind of level of service they can expect and the standards the company promise to achieve. I used an image of a cleaner for the center of the page and some headers and text around the image. On smaller screen sizes the image disappears and only text is displayed.  
 
-### **2.8 FAQ Page**
+### **2.8 F.A.Q Page**
 
-* Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. Here i have used a Bootstrap accordion 
+![alt](assets/images/faq.png)
+
+* Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. Here i have used a Bootstrap accordion. 
 
 ### **2.9 Contact Us Page**
 
-* Users can use this section to message the company and select which specific service they are interested in using. The companies office address is also displayed via a Google map. 
+![alt](assets/images/contact-us-1.png)
+
+* Once a user has selected the type of service they are interested in purchasing they will be directed to the contact us page. Users can also get to this page directly from the Navbar. The aim of the site is to drive users to this page so they can submit their contact details so the company can begin the sales process and begin quoting for business. The companies office address is also displayed via a Google map. 
+
+![alt](assets/images/contact-us-2.png)
 
 ### **2.10 Features Left To Implement**
 
@@ -248,7 +264,7 @@ Again i have decided to use bootstrap for my footer. I have done this because i 
 
 * Majority of the code i used was Bootstrap. Their [main documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) had lots of great information. 
 * I also came across this great bootstrap [cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/) online which i also used quite a bit. A big thanks to [HackerThemes](https://hackerthemes.com/) for making this available free online.
-* For the FAQ page i wanted to use the accordion effect that Bootstrap offers. I came across [this video](https://www.youtube.com/watch?v=t5pJ-SYCZa0) tutorial on YouTube and used it for guidance to achieve the effect i wanted. A big thanks to the team over at [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA) for posting the guide.
+* For the FAQ page i wanted to use the accordion effect that Bootstrap offers. I came across [this video tutorial](https://www.youtube.com/watch?v=t5pJ-SYCZa0) on YouTube and used it for guidance to achieve the effect i wanted. A big thanks to the team over at [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA) for posting the guide.
 
 ### **6.3 Acknowledgements**
 
