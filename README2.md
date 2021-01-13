@@ -16,7 +16,7 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 1.5 Design choices
   * 1.6 Wire frames 
 
-### [**2. Features**](##**2.Features**)
+### **2. [Features](Features)**
   * 2.1 The Navbar
   * 2.2 The Footer
   * 2.3 The Hero Image
@@ -29,15 +29,18 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 2.10 Features Left To Implement 
 
 ### **3. Technologies/Languages Used**
-  * HTML5
-  * CSS
-  * Bootstrap (Version 4)
-  * Google fonts 
-  * YouTube
-  * External hyperlinks
-  * Balsamiq
+  * 3.1 Gitpod
+  * 3.2 HTML5
+  * 3.3 CSS
+  * 3.4 Bootstrap (Version 4)
+  * 3.5 Google fonts 
+  * 3.6 Font Awesome 
+  * 3.7 YouTube
+  * 3.8 External hyperlinks
+  * 3.9 Balsamiq
 
 ### **4. Testing**
+  * 4.1 See [testing.md](testing.md) document 
 
 ### **5. Deployment**
 
@@ -47,13 +50,12 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 6.3 Acknowledgements
 
 ### **7. Contact**
-  * LinkedIn
-  * Email
-  * Skype
+  * 7.1 LinkedIn
+  * 7.2 Email
+  * 7.3 Skype
 
 ### **8. Disclaimer** 
 >
-
 ## **1. User Experience (UX)**
 
 ### **1.1 Target Audience - This website is aimed at anyone who:**
@@ -62,11 +64,11 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 ### **1.2 Visitor gaols** 
 
-* To allow visitors to the site to get some more background information about the company and to see what type of business services they offer the general public. 
+* To allow visitors to the site to get some more background information about the company and to see what type of business services they offer the general public. On the cleaning services page users can select the type of service they are interested in and then submit a request for the company to contact them. 
 
 ### **1.3 Business goals**
 
-* The aim of the website is to provide potential customers with information about the types of services the company offer, a rough guide to pricing, and to encourage interested parties to contact the company via the website so the company can follow up with quotes. 
+* The whole aim of the site is to get users to browse the services offered by the company and if they are interested in a service to submit an enquiry so the company can offer quotes for business. 
 
 ### **1.4 User Stories**
 
@@ -74,21 +76,47 @@ As a visitor to the company website i expect/want/need
 
 **I am a home owner and i have a large family, doing the ironing for my 5 children takes up a lot of my time, i would like some help doing this so i can spend more quality time with my family.**
 
-* **(Expect/Want/Need)** I want to be able to get information on the company and the services they offer, and to then enquire about using a weekly housekeeper to do the ironing for my family, and know what this will cost me at an hurly rate. 
+* **(Expect/Want/Need)** I want to be able to get information on the company and the services they offer, and to then enquire about using a weekly housekeeper to do the ironing for my family, and know what this will cost me at an hourly rate. 
 
-* **(Measurement for success)** This would be an incoming enquiry from a customer looking to purchase this service. 
+**Walkthrough**
 
-**I am a property manager, i manage a large number of residential properties. A garden fence has blown down during a storm.**
+This user lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid. The user wants to know a bit more about the company so they click on the about use section
 
-* **(Expect/Want/Need)** I wish to locate a company that provides handyman services, the rough cost associated with this kind of repair work, and to request a call back from the company so i can schedule a date for the repair to be carried out. 
+![alt](assets/images/user-stories-homepage.png)<br>
 
-* **(Measurement for success)** This would be an incoming enquiry from a customer looking to purchase this service. 
+The user reads up on the company and their mission statement and can see they have been in business for six years now, so believes they must offer a good service if they have been trading six years.
 
-**I own a buy to let rental property. My current tenant who has been with me for 3 years is moving out of the property at the end of the month.**
+![alt](assets/images/user-stories-about-us.png)<br>
+
+The user also wants to know that she will be safe lettting a person she has never met into her home. The user then clicks on the our promise link. 
+
+![alt](assets/images/user-stories-our-promise.png)<br>
+
+After reading a bit more about the company the user clicks on the cleaning services page and is presented with a list of all of the cleaning services that the company offers. As the user scrolls down through the services they see the ironing service in the bottom left card with the hourly rate. The user clicks on the click to contact us for a quote link 
+
+![alt](assets/images/user-stories-ironing.png)<br>
+
+The user is presented with 5 entry fields and 1 free text box. They can see which fields are required. The user populates the form with the information required and also some free text about what they are looking for. They have also selected the specialist services radio button. They then press send message.
+
+![alt](assets/images/user-stories-contact-us-ironing.png)<br>
+
+The users message has been successfully received and they see a confirmation message letting them know someone from the team will be in contact. 
+
+![alt](assets/images/user-stories-message-received.png)
+
+* **(Measurement for success)** This would result in an incoming enquiry from a customer looking to purchase this service. 
+
+**I am a property manager who manages 100 residential properties in the Dublin area. At one of the properties i manage the back garden fence has blown down during a storm and i need a handyman to call out to the property and repair the fence.**
+
+* **(Expect/Want/Need)** I need to locate a company that provides handyman services in the Dublin area. I need to get a rough idea of cost of the repair. I estimate the job should take no more than two  hours to complete as there isn't any major damage to the fence as no panels are broken, just the posts that hold them in place. I need to speak to the company so i can schedule a date for the repair to be carried out. 
+
+* **(Measurement for success)** This would result in an incoming enquiry from a customer looking to purchase this service. 
+
+**I own a buy to let rental property. My current tenant who has been with me for 3 years is moving out of the property at the end of the month and i need it deep cleaned before i can start doing viewings with new potential tenants.**
 
 * **(Expect/Want/Need)** After they move out I need to get the property deep cleaned before i can start advertising it again and holding viewings with new potential tenants. 
 
-* **(Measurement for success)** This would be an incoming enquiry from a customer looking to purchase this service.
+* **(Measurement for success)** This would result in an incoming enquiry from a customer looking to purchase this service. 
 
 ### **1.5 Design choices** 
 
@@ -212,15 +240,15 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 >
 ## **3. Technologies/Languages Used**
 
-* [Gitpod](https://www.gitpod.io/) - Is the IDE recommended for Code Institute students and the one i chose to develop this project in.
-* [HTML5 - Hypertext Markup Language](https://html.com/html5/#What_is_HTML) - This is the markup language i used for this project.
-* [CSS - Cascading Style Sheet](https://en.wikipedia.org/wiki/CSS) - I used CSS to help alter and adjust the presentation of the website to create a pleasant user experience. 
-* [Bootstrap](https://getbootstrap.com/) - Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. Bootstrap 4 is the version i used for the development of this project.
-* [Google fonts](https://fonts.google.com/) - Launched in 2010 Google Fonts is a library of 1,023 free licensed font families.
-* [Font Awesome](https://fontawesome.com/) - Font Awesome is a font and icon toolkit based on CSS and Less. It was made by Dave Gandy for use with Bootstrap, and later was incorporated into the BootstrapCDN. Font Awesome has a 38% market share among those websites that use third-party font scripts on their platform.
-* [YouTube](https://www.youtube.com/) links - I used a link to a product review that is hosted on YouTube about a product that the company Dirt Be Gone offered to customers.  
-* [External Link](https://keysafe.co.uk/c500-keysafe.html#:~:text=The%20Supra%20C500%20coded%20Key,box%2C%20then%20look%20no%20further) - to a third party website that has all of the technical details about a product that Dirt Be Gone offers to customers.
-* [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiAi_D_BRApEiwASslbJ_NXgCJLhWQ06W9sA_HcnQ4agJM5EJa4wWRNrXu6oJbIoz_zaiVBaRoCAScQAvD_BwE)- Balsamiq Wireframes is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard.
+3.1 [Gitpod](https://www.gitpod.io/) - Is the IDE recommended for Code Institute students and the one i chose to develop this project in.<br>
+3.2 [HTML5 - Hypertext Markup Language](https://html.com/html5/#What_is_HTML) - This is the markup language i used for this project.<br>
+3.3 [CSS - Cascading Style Sheet](https://en.wikipedia.org/wiki/CSS) - I used CSS to help alter and adjust the presentation of the website to create a pleasant user experience.<br>
+3.4 [Bootstrap](https://getbootstrap.com/) - Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. Bootstrap 4 is the version i used for the development of this project.
+3.5 [Google fonts](https://fonts.google.com/) - Launched in 2010 Google Fonts is a library of 1,023 free licensed font families.<br>
+3.6 [Font Awesome](https://fontawesome.com/) - Font Awesome is a font and icon toolkit based on CSS and Less. It was made by Dave Gandy for use with Bootstrap, and later was incorporated into the BootstrapCDN. Font Awesome has a 38% market share among those websites that use third-party font scripts on their platform.<br>
+3.7 [YouTube](https://www.youtube.com/) links - I used a link to a product review that is hosted on YouTube about a product that the company Dirt Be Gone offered to customers.<br> 
+3.8 [External Link](https://keysafe.co.uk/c500-keysafe.html#:~:text=The%20Supra%20C500%20coded%20Key,box%2C%20then%20look%20no%20further) - to a third party website that has all of the technical details about a product that Dirt Be Gone offers to customers.<br>
+3.9 [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAiAi_D_BRApEiwASslbJ_NXgCJLhWQ06W9sA_HcnQ4agJM5EJa4wWRNrXu6oJbIoz_zaiVBaRoCAScQAvD_BwE)- Balsamiq Wireframes is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard.
 >
 ## **4. Testing**
 
@@ -250,10 +278,11 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 >
 ## **7. Contact**
 
-Feel free to contact me on any of the following channels:
-* [LinkedIn](https://www.linkedin.com/in/stephenmcgovern01/)
-* [Email](mailto:stephen_xyz1@hotmail.com)
-* [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
+Feel free to contact me on any of the following channels:<br>
+
+7.1 [LinkedIn](https://www.linkedin.com/in/stephenmcgovern01/)<br>
+7.2 [Email](mailto:stephen_xyz1@hotmail.com)<br>
+7.3 [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
 >
 ## **8. Disclaimer**
 

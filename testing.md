@@ -1,3 +1,5 @@
+![alt](assets/images/dirt-be-gone-logo.png)
+
 # **Dirt Be Gone - Testing Details**
 
 Main [README.MD](readme2.md) file 
@@ -14,19 +16,22 @@ Main [README.MD](readme2.md) file
 ### **3. Manual Testing**
   * 3.1 Manual Testing Desktop
   * 3.2 Manual Testing Tablet/Mobile
-  
+>
+## **1. Automated Testing**
 
 ### **1.1 Validation Testing** 
 
 For validation testing i used the following: 
 
-HTML - [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)<br>
-CSS - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+ * HTML - [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)<br>
+ * CSS - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+>
+## **2. User Stories Testing**
 
+>
+## **3. Manual Testing**
 
-
-
-### **3.1 Manual Testing Desktop** 
+### **3.1 Manual Testing - Desktop** 
 
 All desktop testing was carried out on Chrome, FireFox and Safari.
 
@@ -72,7 +77,7 @@ All desktop testing was carried out on Chrome, FireFox and Safari.
   * After the form has been correctly completed and the user presses send message the user is them brought to a confirmation page that confirms the business has received their message and will contact them. 
   * On the confirmation page there is also a button the user can click to bring them back to the main site. I have tested this and can confirm it does bring you back tot he main site.  
 
-### **3.2 Manual Testing Tablet/Mobile** 
+### **3.2 Manual Testing - Tablet/Mobile** 
 
 All mobile testing was carried out on google Chrome and FireFox on the following devices:
 
@@ -123,7 +128,7 @@ Huawei P Smart (Horizontal & Vertical)
   * I have also clicked the "view larger map" link on the map and again it opens the map in google maps and the destination is correctly set. The user just needs to enter their starting address.
   * After the form has been correctly completed and the user presses send message the user is them brought to a confirmation page that confirms the business has received their message and will contact them. 
   * On the confirmation page there is also a button the user can click to bring them back to the main site. I have tested this and can confirm it does bring you back tot he main site.  
-
+>
 
 
 
