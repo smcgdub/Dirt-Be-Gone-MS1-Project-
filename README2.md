@@ -6,17 +6,19 @@
 
 The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of the website is to provide people who live in the Dublin area with easy online access to a range of residential cleaning and handyman services offered by the Dirt Be Gone company. 
 
+![alt](assets/images/am-i-responsive-image.png)
+
 ## **Table of contents** 
 
 ### **1. User Experience (UX)**
-  * 1.1 Target audience
-  * 1.2 Visitor goals
-  * 1.3 Business goals 
+  * 1.1 [Target audience](#1.1-target-audience)
+  * 1.2 [Visitor goals](#1.2-visitor-goals)
+  * 1.3 [Business goals](#1.3-Business-goals) 
   * 1.4 User stories 
   * 1.5 Design choices
   * 1.6 Wire frames 
 
-### **2. [Features](Features)**
+### **2. Features**
   * 2.1 The Navbar
   * 2.2 The Footer
   * 2.3 The Hero Image
@@ -58,11 +60,13 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 >
 ## **1. User Experience (UX)**
 
-### **1.1 Target Audience - This website is aimed at anyone who:**
+### **1.1 Target Audience**
+
+####  This website is aimed at anyone who:
 
 * Owns, manages, or rents a residential property in the Dublin area that needs the use of a cleaner, housekeeper or handyman.
 
-### **1.2 Visitor gaols** 
+### **1.2 Visitor goals** 
 
 * To allow visitors to the site to get some more background information about the company and to see what type of business services they offer the general public. On the cleaning services page users can select the type of service they are interested in and then submit a request for the company to contact them. 
 
@@ -74,7 +78,7 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 As a visitor to the company website i expect/want/need
 
-**I am a home owner and i have a large family, doing the ironing for my 5 children takes up a lot of my time, i would like some help doing this so i can spend more quality time with my family.**
+**I am a home owner and i have a large family. Doing the ironing for 5 children, myself and my husband takes up an awful lot of my time. I would like someone to take this weekly chore off my hands so i can spend more quality time with my family.**
 
 * **(Expect/Want/Need)** I want to be able to get information on the company and the services they offer, and to then enquire about using a weekly housekeeper to do the ironing for my family, and know what this will cost me at an hourly rate. 
 
@@ -88,11 +92,11 @@ The user reads up on the company and their mission statement and can see they ha
 
 ![alt](assets/images/user-stories-about-us.png)<br>
 
-The user also wants to know that she will be safe lettting a person she has never met into her home. The user then clicks on the our promise link. 
+The user also wants to know that she will be safe letting a person she has never met into her home. The user then clicks on the our promise link to see what the company is promising customers. The user can see that all of the cleaners have had a full background check carried out on them so feels more secure in using the company now. 
 
 ![alt](assets/images/user-stories-our-promise.png)<br>
 
-After reading a bit more about the company the user clicks on the cleaning services page and is presented with a list of all of the cleaning services that the company offers. As the user scrolls down through the services they see the ironing service in the bottom left card with the hourly rate. The user clicks on the click to contact us for a quote link 
+After reading a bit more about the company the user clicks on the cleaning services page and is presented with a list of all of the cleaning services that the company offers. As the user scrolls down through the services they see the ironing service in the bottom left card with the hourly rate. The user clicks on the click to contact us for a quote link.
 
 ![alt](assets/images/user-stories-ironing.png)<br>
 
@@ -260,7 +264,7 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **6.1 Media** 
 
- * All images of the apartments used in the carousel on the home page were provided by Dublin City Rentals
+ * All images of the apartments used in the carousel on the home page were provided by [Dublin City Rentals](https://dublincityrentals.com/)
 * Image of the cleaner on the about us page belongs to 
 * Image of the cleaner on the our promise page belongs to
 
