@@ -11,24 +11,24 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 ## **Table of contents** 
 
 ### **1. User Experience (UX)**
-  * 1.1 [Target audience](#1.1-target-audience)
-  * 1.2 [Visitor goals](#1.2-visitor-goals)
-  * 1.3 [Business goals](#1.3-Business-goals) 
-  * 1.4 User stories 
+  * 1.1 Target audience
+  * 1.2 Visitor goals
+  * 1.3 Business goals
+  * 1.4 User stories
   * 1.5 Design choices
-  * 1.6 Wire frames 
+  * 1.6 Wire frames
 
 ### **2. Features**
-  * 2.1 The Navbar
+  * 2.1 [The Navbar](#2.1-the-navbar)
   * 2.2 The Footer
   * 2.3 The Hero Image
   * 2.4 Testimonials
   * 2.5 About Us
-  * 2.6 Cleaning Services 
+  * 2.6 Cleaning Services
   * 2.7 Our Promise
   * 2.8 FAQ'S
   * 2.9 Contact Us 
-  * 2.10 Features Left To Implement 
+  * 2.10 Features Left To Implement
 
 ### **3. Technologies/Languages Used**
   * 3.1 Gitpod
@@ -56,7 +56,9 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 7.2 Email
   * 7.3 Skype
 
-### **8. Disclaimer** 
+### **8. Disclaimer**
+
+ * 8.1 Disclaimer
 >
 ## **1. User Experience (UX)**
 
@@ -289,6 +291,8 @@ Feel free to contact me on any of the following channels:<br>
 7.3 [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
 >
 ## **8. Disclaimer**
+
+### **8.1 Disclaimer**   
 
 This website and all of its content is for educational purposes only.
 >
