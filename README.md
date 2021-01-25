@@ -260,6 +260,23 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 * Testing information can be found in the [testing.md](testing.md) file
 >
 ## **5. Deployment**
+
+* To deploy the site on Github i undertook the following steps:
+
+1. Navigated to my profile page on Github
+2. Selected this project from the repositories
+3. Clicked on settings
+4. Scroll down to the Github pages section 
+5. Click where is says source and in the dropdown menu select master 
+6. Click on the next dropdown menu to the right select /(root)
+7. Click save
+
+You will then receive a confirmation saying the page has been published and also be provided with the link where people can view your site.
+
+![Image of page published confirmation](assets/images/github-pages-published.png)
+
+The link to view the site can be found [Here](https://smcgdub.github.io/Dirt-Be-Gone-MS1-Project-/index.html)
+
 >
 ## **6. Credits** 
 
