@@ -1,4 +1,4 @@
-![alt](assets/images/dirt-be-gone-logo.png)
+![Company Logo](assets/images/dirt-be-gone-logo.png)
 
 # **Dirt Be Gone - Residential cleaning & handyman services**
 
@@ -6,7 +6,7 @@
 
 The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of the website is to provide people who live in the Dublin area with easy online access to a range of residential cleaning and handyman services offered by the Dirt Be Gone company. 
 
-![alt](assets/images/am-i-responsive-image.png)
+![Homepage displayed on multiple devices](assets/images/am-i-responsive-image.png)
 
 ## **Table of contents** 
 
@@ -19,7 +19,7 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
   * 1.6 Wire frames
 
 ### **2. Features**
-  * 2.1 [The Navbar](#2.1-the-navbar)
+  * 2.1 The Navbar
   * 2.2 The Footer
   * 2.3 The Hero Image
   * 2.4 Testimonials
@@ -58,7 +58,6 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 ### **8. Disclaimer**
 
- * 8.1 Disclaimer
 >
 ## **1. User Experience (UX)**
 
@@ -88,27 +87,27 @@ As a visitor to the company website i expect/want/need
 
 This user lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid. The user wants to know a bit more about the company so they click on the about use section
 
-![alt](assets/images/user-stories-homepage.png)<br>
+![Image of main homepage](assets/images/user-stories-homepage.png)<br>
 
 The user reads up on the company and their mission statement and can see they have been in business for six years now, so believes they must offer a good service if they have been trading six years.
 
-![alt](assets/images/user-stories-about-us.png)<br>
+![Image of about us page](assets/images/user-stories-about-us.png)<br>
 
 The user also wants to know that she will be safe letting a person she has never met into her home. The user then clicks on the our promise link to see what the company is promising customers. The user can see that all of the cleaners have had a full background check carried out on them so feels more secure in using the company now. 
 
-![alt](assets/images/user-stories-our-promise.png)<br>
+![Image of our promise page](assets/images/user-stories-our-promise.png)<br>
 
 After reading a bit more about the company the user clicks on the cleaning services page and is presented with a list of all of the cleaning services that the company offers. As the user scrolls down through the services they see the ironing service in the bottom left card with the hourly rate. The user clicks on the click to contact us for a quote link.
 
-![alt](assets/images/user-stories-ironing.png)<br>
+![Image of cleaning services available page](assets/images/user-stories-ironing.png)<br>
 
 The user is presented with 5 entry fields and 1 free text box. They can see which fields are required. The user populates the form with the information required and also some free text about what they are looking for. They have also selected the specialist services radio button. They then press send message.
 
-![alt](assets/images/user-stories-contact-us-ironing.png)<br>
+![Image of the contact us form](assets/images/user-stories-contact-us-ironing.png)<br>
 
 The users message has been successfully received and they see a confirmation message letting them know someone from the team will be in contact. 
 
-![alt](assets/images/user-stories-message-received.png)
+![Image of message received successfully page](assets/images/user-stories-message-received.png)
 
 * **(Measurement for success)** This would result in an incoming enquiry from a customer looking to purchase this service. 
 
@@ -154,7 +153,7 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 
 * The main colour pallet can be found below.<br>
 
-![alt](assets/images/colours-used.png)
+![Image of the colour pallet used for the project](assets/images/colours-used.png)
 
 * I used the website colour mind when deciding on which colours to use. The website uses a generator to help you select the best matching colour palettes for your project. The website can be found here:<br> 
 [Colour Mind Website Here](http://colormind.io/)
@@ -162,23 +161,23 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 ### **1.6 Wire Frames** 
 
 [Homepage Desktop](https://ibb.co/FXqfZ2d)<br>
-[Homepage Mobile](https://ibb.co/jTKg8HN)<br>
+[Homepage Mobile & iPad](https://ibb.co/jTKg8HN)<br>
 [About Us Desktop](https://ibb.co/kMMdRGY)<br>
-[About Us Mobile](https://ibb.co/JdCHN2h)<br>
+[About Us Mobile & iPad](https://ibb.co/JdCHN2h)<br>
 [Cleaning Services Desktop](https://ibb.co/c18hbxd)<br>
-[Cleaning Services Mobile](https://ibb.co/7Sc3r1h)<br>
+[Cleaning Services Mobile & iPad](https://ibb.co/7Sc3r1h)<br>
 [Our Promise Desktop](https://ibb.co/NxJbYtC)<br>
-[Our Promise Mobile](https://ibb.co/3zybq29)<br>
+[Our Promise Mobile & iPad](https://ibb.co/3zybq29)<br>
 [FAQ Desktop](https://ibb.co/k5csMF5)<br>
-[FAQ Mobile](https://ibb.co/TT4Z5Dz)<br>
+[FAQ Mobile & iPad](https://ibb.co/TT4Z5Dz)<br>
 [Contact Us Desktop](https://ibb.co/Ln31KMw)<br>
-[Contact Us Mobile](https://ibb.co/FmNvxnZ)
+[Contact Us Mobile & iPad](https://ibb.co/FmNvxnZ)
 >
 ## **2. Features**
 
 ### **2.1 The Navbar**
 
-![alt](assets/images/main-navbar.png)
+![Image of Navbar](assets/images/main-navbar.png)
 
 * The Navbar i decided to use a standard Bootstrap 4.4 Navbar with brand. I did this because i wanted the company logo in the top left, and the menu items on the right. The menu items i decided on were 
 
@@ -191,11 +190,11 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 
 The site also needs to be mobile responsive so i chose Bootstrap as it provided me with a quick and easy way of achieving this. On smaller screen sizes the navbar will collapse into a hamburger menu that when clicked will expand and reveal the nav bar items. 
 
-![alt](assets/images/navbar-hamburger.png)
+![Image of Navbar as a hamburger menu opened](assets/images/navbar-hamburger.png)
 
 ### **2.2 The Footer** 
 
-![alt](assets/images/main-footer.png)
+![Image of main footer](assets/images/main-footer.png)
 
 * In the footer i have listed all of the companies contact details and also put all of the companies social media links. The navbar and the footer are identical on each page as to maintain cohesion no matter what page the user finds themselves on. 
 
@@ -205,7 +204,7 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **2.4 Testimonials**
 
-![alt](assets/images/testimonials.png)
+![Image of testimonials section](assets/images/testimonials.png)
 
 * I have also used another bootstrap carousel below the hero images for customer reviews and testimonials. I also added a control next and control previous icon which allows users to browse forward and backward through the testimonials.  
 
@@ -215,7 +214,7 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **2.6 Cleaning Services Page**
 
-![alt](assets/images/cleaning-services.png)
+![Image of cleaning services page](assets/images/cleaning-services.png)
 
 * On this page users can browse all of the services offered by the company. There is also some additional information on pricing for some services. Users can browse the services that they are interested in purchasing and directly from here click a link to be directed to the contact us form. Here they provide their contact details and also have the ability to enter some additional information about the service they are interested in. I decided to use Bootstrap cards for this section.
 
@@ -225,17 +224,17 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **2.8 F.A.Q Page**
 
-![alt](assets/images/faq.png)
+![Image of FAQ page](assets/images/faq.png)
 
 * Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. Here i have used a Bootstrap accordion. 
 
 ### **2.9 Contact Us Page**
 
-![alt](assets/images/contact-us-1.png)
+![Image of contact us form](assets/images/contact-us-1.png)
 
 * Once a user has selected the type of service they are interested in purchasing they will be directed to the contact us page. Users can also get to this page directly from the Navbar. The aim of the site is to drive users to this page so they can submit their contact details so the company can begin the sales process and begin quoting for business. The companies office address is also displayed via a Google map. 
 
-![alt](assets/images/contact-us-2.png)
+![Image of Google map showing office location](assets/images/contact-us-2.png)
 
 ### **2.10 Features Left To Implement**
 
@@ -266,9 +265,14 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ### **6.1 Media** 
 
- * All images of the apartments used in the carousel on the home page were provided by [Dublin City Rentals](https://dublincityrentals.com/)
-* Image of the cleaner on the about us page belongs to 
-* Image of the cleaner on the our promise page belongs to
+ * All images of the apartments used in the carousel on the home page were provided by [Dublin City Rentals](https://dublincityrentals.com/) who is the owner of all of the imagery and has given permission for the imagery to be used. 
+* Image of the cleaner on the About Us page was purchased from iStock photo. Link to the image is [Here](https://www.istockphoto.com/photo/ok-for-cleaning-gm471666399-26017975) <br>
+Credit for the image goes to [LittleBee80](https://www.istockphoto.com/portfolio/littlebee80?assettype=image&mediatype=photography&sort=best) <br>
+Licence information on the image can be found [Here](https://www.istockphoto.com/help/licenses)
+* Image of the cleaner on the our promise page was sourced from Pixabay. Link to image [Here](https://pixabay.com/photos/girl-white-woman-young-beautiful-4906257/) <br>
+Credit for the image goes to [Anastasia Gepp](https://pixabay.com/users/nastya_gepp-3773230/) <br>
+Licence information on the image can be found [Here](https://pixabay.com/service/license/)
+* The Dirt Be Gone logo was designed by Stephen Mc Govern who's project this is. The logo was designed on the [Canva Website](https://www.canva.com/)
 
 ### **6.2 Code** 
 
@@ -290,9 +294,7 @@ Feel free to contact me on any of the following channels:<br>
 7.2 [Email](mailto:stephen_xyz1@hotmail.com)<br>
 7.3 [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
 >
-## **8. Disclaimer**
-
-### **8.1 Disclaimer**   
+## **8. Disclaimer**  
 
 This website and all of its content is for educational purposes only.
 >
