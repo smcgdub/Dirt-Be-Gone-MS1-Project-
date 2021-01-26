@@ -46,6 +46,10 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 ### **5. Deployment**
 
+  * 5.1 Deployment 
+  * 5.2 Cloning 
+  * 5.3 Cloning Desktop
+
 ### **6. Credits**
   * 6.1 Media
   * 6.2 Code
@@ -58,6 +62,7 @@ The Dirt Be Gone website was created and built by Stephen Mc Govern. The aim of 
 
 ### **8. Disclaimer**
 
+  * 8.1 Disclaimer on project 
 >
 ## **1. User Experience (UX)**
 
@@ -133,7 +138,7 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 
 #### ICONS
 
-* I also decided i would use font awesome icons throughout the site. I did this because i believe icons make a site look better and also give the user an idea of the type of information that they are looking at.
+* I also decided i would use [Font Awesome](https://fontawesome.com/) icons throughout the site. I did this because i believe icons make a site look better and also give the user an idea of the type of information that they are looking at.
 
 * I also used font awesome for the companies social media icons (Facebook, Twitter, Instagram, LinkedIn) located in the footer of the page. 
 
@@ -261,7 +266,9 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 >
 ## **5. Deployment**
 
-* To deploy the site on Github i undertook the following steps:
+### **5.1 Deployment**  
+
+To deploy the site on Github i undertook the following steps:
 
 1. Navigated to my profile page on Github
 2. Selected this project from the repositories
@@ -277,6 +284,43 @@ You will then receive a confirmation saying the page has been published and also
 
 The link to view the site can be found [Here](https://smcgdub.github.io/Dirt-Be-Gone-MS1-Project-/index.html)
 
+### **5.2 Cloning**
+
+You can clone the projects repository to your local computer by following the steps below:
+
+Cloning a repository using the command line
+
+1. On github navigate to the project repository. The link can be found here: https://github.com/smcgdub/Dirt-Be-Gone-MS1-Project-
+2. Click on the tab that says < >code 
+3. Above the files, click the button that says &#8595;code
+
+![Github code button](assets/images/github-code-button.png)
+
+4. From the menu select HTTPS
+5. Click on the clipboard icon on the right hand side (Image below)
+
+![Github code button](assets/images/github-clipboard.png)
+
+6. Open the terminal in your IDE
+7. Change the current working directory to the location where you want the cloned directory.
+8. In terminal type `git clone` and then paste the URL you copied earlier 
+https://github.com/smcgdub/Dirt-Be-Gone-MS1-Project-.git
+9. Press Enter to create your local clone.
+
+### **5.3 Cloning Desktop**
+You can also clone the project using Github Desktop. To do this you can do the following: 
+
+1. Download Github Desktop if you do not already have it installed. The link can be found here [Github Desktop](https://desktop.github.com/)
+2. Sign in to GitHub and GitHub Desktop before you start to clone.
+3. On github navigate to the project repository. The link can be found here: https://github.com/smcgdub/Dirt-Be-Gone-MS1-Project-
+4. Click on the tab that says < >code 
+5. Above the files, click the button that says &#8595;code
+
+![Github code button](assets/images/github-code-button.png)
+
+6. Click open with GitHub Desktop to clone and open the repository with GitHub Desktop.
+7. Click Choose... and, using the Finder window, navigate to a local path where you want to clone the repository.
+8. Click clone 
 >
 ## **6. Credits** 
 
@@ -307,11 +351,11 @@ Licence information on the image can be found [Here](https://pixabay.com/service
 
 Feel free to contact me on any of the following channels:<br>
 
-7.1 [LinkedIn](https://www.linkedin.com/in/stephenmcgovern01/)<br>
-7.2 [Email](mailto:stephen_xyz1@hotmail.com)<br>
-7.3 [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
+* 7.1 [LinkedIn](https://www.linkedin.com/in/stephenmcgovern01/)<br>
+* 7.2 [Email](mailto:stephen_xyz1@hotmail.com)<br>
+* 7.3 [Skype](https://join.skype.com/invite/ndruMu7qVuKZ)
 >
 ## **8. Disclaimer**  
 
-This website and all of its content is for educational purposes only.
+* 8.1  This website and all of its content is for educational purposes only.
 >
