@@ -10,13 +10,9 @@ Main [README.MD](readme2.md) file
  * 1.1 Validation Testing
  * 1.2 Lighthouse Testing 
 
-### **2. User Stories Testing**
-  * 2.1 Visitor Stories 
-  * 2.1 Business Stories 
-
-### **3. Manual Testing**
-  * 3.1 Manual Testing Desktop
-  * 3.2 Manual Testing Tablet/Mobile
+### **2. Manual Testing**
+  * 2.1 Manual Testing Desktop
+  * 2.2 Manual Testing Tablet/Mobile
 >
 ## **1. Automated Testing**
 
@@ -31,19 +27,12 @@ For validation testing i used the following:
 
 I also used the Google Chrome tool Lighthouse for the testing of the website and its performance. After running lighthouse the results of the test for the website came back as:
 
-<br>
-
 ![Website page score in lighthouse](assets/images/lighthouse-page-score.png)
 
-
-A link to the full report from Lighthouse can be viewed by clicking on this link: [Lighthouse Report](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2F8000-af291999-46ae-4efb-9d98-27ba5f6f419e.ws-eu03.gitpod.io%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 >
-## **2. User Stories Testing**
+## **2. Manual Testing**
 
->
-## **3. Manual Testing**
-
-### **3.1 Manual Testing - Desktop** 
+### **2.1 Manual Testing - Desktop** 
 
 All desktop testing was carried out on Chrome, FireFox and Safari.
 
@@ -89,7 +78,7 @@ All desktop testing was carried out on Chrome, FireFox and Safari.
   * After the form has been correctly completed and the user presses send message the user is them brought to a confirmation page that confirms the business has received their message and will contact them. 
   * On the confirmation page there is also a button the user can click to bring them back to the main site. I have tested this and can confirm it does bring you back tot he main site.  
 
-### **3.2 Manual Testing - Tablet/Mobile** 
+### **2.2 Manual Testing - Tablet/Mobile** 
 
 All mobile testing was carried out on google Chrome and FireFox on the following devices:
 
