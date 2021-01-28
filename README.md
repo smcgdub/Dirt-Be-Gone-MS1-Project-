@@ -128,6 +128,8 @@ This user lands on the Dirt Be Gone homepage. The Navbar at the top of the scree
 
 The user wants to know a bit more about the company so they click on the about use section. They can confirm from this page that the company do operate in the Dublin area where his properties are located. 
 
+![Image of about us page](assets/images/user-stories-about-us.png)
+
 The user then clicks on the cleaning services page and is presented with a list of all of the services that the company offers. The user scrolls down through the services and they can see at the bottom of the page that the general handyman service is €50 for the call out and €30 for each additional hour. The user clicks on the click to contact us for a quote link.
 
 ![Image of cleaning services available page](assets/images/user-stories-ironing.png)<br>
