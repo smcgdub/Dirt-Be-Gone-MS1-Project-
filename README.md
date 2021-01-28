@@ -120,6 +120,23 @@ The users message has been successfully received and they see a confirmation mes
 
 * **(Expect/Want/Need)** I need to locate a company that provides handyman services in the Dublin area. I need to get a rough idea of cost of the repair. I estimate the job should take no more than two  hours to complete as there isn't any major damage to the fence as no panels are broken, just the posts that hold them in place. I need to speak to the company so i can schedule a date for the repair to be carried out. 
 
+**Walkthrough**
+
+This property manager lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid. The user wants to know a bit more about the company so they click on the about use section. They can confirm from this page that the company do operate in the Dublin area where his properties are located. 
+
+![Image of main homepage](assets/images/user-stories-homepage.png)<br>
+
+The user clicks on the cleaning services page and is presented with a list of all of the services that the company offers. The user scrolls down through the services and they can see at the bottom of the page that the general handyman service is €50 for the call out and €30 for each additional hour. The user clicks on the click to contact us for a quote link.
+
+![Image of cleaning services available page](assets/images/user-stories-ironing.png)<br>
+
+The user is directed to the contact us form. They populate the form with the information required and also some free text about the repair job. what they are looking for. They have also selected the specialist services radio button. They then press send message.
+
+![Image of cleaning services available page](assets/images/user-stories-contact-us-handyman.png)<br>
+
+The users message has been successfully received and they see a confirmation message letting them know someone from the team will be in contact. 
+
+![Image of message received successfully page](assets/images/user-stories-message-received.png)
 * **(Measurement for success)** This would result in an incoming enquiry from a customer looking to purchase this service. 
 
 **I own a buy to let rental property. My current tenant who has been with me for 3 years is moving out of the property at the end of the month and i need it deep cleaned before i can start doing viewings with new potential tenants.**
@@ -145,16 +162,12 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 #### COLOURS
 
 * I did some research as to what colours would be best to use for a cleaning company. A lot of the information i found from my web searches said that bright colours work well as they convey a bright/clean feel to them. Also white is the colour that is most associated with cleanliness, clean white sheets for example, so i wanted to incorporate white into the site as if it were a blank white canvas. 
-<br>
 
 * The text is written in black as this is the colour that contrasts the best with a white background. 
-<br>
 
 * For my hyperlinks i wanted to use the standard blue that people are familiar with when browsing a website.
-<br>
 
 * Finally on the FAQ page i decided to use a light grey background for the question, and a white background for the answer. I initially went for an white background on both but i found that it was hard on the eyes to differentiate between the question and the answer, so i went with a grey background. 
-<br>
 
 * The main colour pallet can be found below.<br>
 
