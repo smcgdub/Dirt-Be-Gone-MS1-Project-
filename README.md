@@ -90,13 +90,13 @@ As a visitor to the company website i expect/want/need
 
 **Walkthrough**
 
-This user lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid. The user wants to know a bit more about the company so they click on the about use section
+This user lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid out so the user is able to see all of the information they need. 
 
 ![Image of main homepage](assets/images/user-stories-homepage.png)<br>
 
-The user reads up on the company and their mission statement and can see they have been in business for six years now, so believes they must offer a good service if they have been trading six years.
+The user wants to know a bit more about the company so they click on the about us section. The user reads up on the company and their mission statement and can see they have been in business for six years now, so believes they must offer a good service if they have been trading six years.
 
-![Image of about us page](assets/images/user-stories-about-us.png)<br>
+![Image of about us page](assets/images/user-stories-about-us.png)
 
 The user also wants to know that she will be safe letting a person she has never met into her home. The user then clicks on the our promise link to see what the company is promising customers. The user can see that all of the cleaners have had a full background check carried out on them so feels more secure in using the company now. 
 
@@ -122,26 +122,51 @@ The users message has been successfully received and they see a confirmation mes
 
 **Walkthrough**
 
-This property manager lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid. The user wants to know a bit more about the company so they click on the about use section. They can confirm from this page that the company do operate in the Dublin area where his properties are located. 
+This user lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid out so the user is able to see all of the information they need.
 
 ![Image of main homepage](assets/images/user-stories-homepage.png)<br>
 
-The user clicks on the cleaning services page and is presented with a list of all of the services that the company offers. The user scrolls down through the services and they can see at the bottom of the page that the general handyman service is €50 for the call out and €30 for each additional hour. The user clicks on the click to contact us for a quote link.
+The user wants to know a bit more about the company so they click on the about use section. They can confirm from this page that the company do operate in the Dublin area where his properties are located. 
+
+The user then clicks on the cleaning services page and is presented with a list of all of the services that the company offers. The user scrolls down through the services and they can see at the bottom of the page that the general handyman service is €50 for the call out and €30 for each additional hour. The user clicks on the click to contact us for a quote link.
 
 ![Image of cleaning services available page](assets/images/user-stories-ironing.png)<br>
 
 The user is directed to the contact us form. They populate the form with the information required and also some free text about the repair job. what they are looking for. They have also selected the specialist services radio button. They then press send message.
 
-![Image of cleaning services available page](assets/images/user-stories-contact-us-handyman.png)<br>
+![Image of completed contact us form](assets/images/user-stories-contact-us-handyman.png)<br>
 
 The users message has been successfully received and they see a confirmation message letting them know someone from the team will be in contact. 
 
 ![Image of message received successfully page](assets/images/user-stories-message-received.png)
+
 * **(Measurement for success)** This would result in an incoming enquiry from a customer looking to purchase this service. 
 
 **I own a buy to let rental property. My current tenant who has been with me for 3 years is moving out of the property at the end of the month and i need it deep cleaned before i can start doing viewings with new potential tenants.**
 
 * **(Expect/Want/Need)** After my tenant moves out I need to get the property deep cleaned before i can start advertising it again and holding viewings with new potential tenants. 
+
+**Walkthrough**
+
+This property owner lands on the Dirt Be Gone homepage. The Navbar at the top of the screen is clearly laid out so the user can see all of the information at a glance. 
+
+![Image of main homepage](assets/images/user-stories-homepage.png)
+
+The user knows the apartment needs a good cleaning as the current tenant has been there for 3 years. The user clicks on the our promise page as he wants to know the job will be done right. 
+
+![Image of our promise page](assets/images/user-stories-our-promise.png)
+
+After reading the quality guarantee and realising that he can meet the cleaner on site before the job starts the owner clicks on the cleaning services tab. Here he can see the end of tenancy cleaning option.
+
+![Image of cleaning services page](assets/images/user-stories-cleaning-services.png)
+
+The user clicks on the contact us for a quote and is redirected to the contact us page and the contact us form. The property owner completes the form and provides information on the job he is looking to get done. 
+
+![Image of completed contact us form](assets/images/user-stories-contact-us-end-of-tenancy.png)<br>
+
+The users message has been successfully received and they see a confirmation message letting them know someone from the team will be in contact. 
+
+![Image of message received successfully page](assets/images/user-stories-message-received.png)
 
 * **(Measurement for success)** This would result in an incoming enquiry from a customer looking to purchase this service. 
 
