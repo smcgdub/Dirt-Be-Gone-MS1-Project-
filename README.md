@@ -182,7 +182,7 @@ I wanted the website to have a bright and clean feel to it. Its for a cleaning c
 
 #### ICONS
 
-* I also decided i would use [Font Awesome](https://fontawesome.com/) icons throughout the site. I did this because i believe icons make a site look better and also give the user an idea of the type of information that they are looking at.
+* I also decided i would use [Font Awesome](https://fontawesome.com/)icons throughout the site. I did this because i believe icons make a site look better and also give the user an idea of the type of information that they are looking at.
 
 * I also used font awesome for the companies social media icons (Facebook, Twitter, Instagram, LinkedIn) located in the footer of the page. 
 
@@ -271,7 +271,9 @@ The site also needs to be mobile responsive so i chose Bootstrap as it provided 
 
 ![Image of FAQ page](assets/images/faq.png)
 
-* Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here, and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. Here i have used a Bootstrap accordion. 
+* Lots of customers will always have a few questions about a product or service before they buy it. By adding this section to the website it allows us the potential customer to see if their question is here,and if so, to have it answered. This means the customer doesn't have to call the office number so it will save staff time answering the same kind of questions over and over again. Here i have used a Bootstrap accordion. 
+
+* Credit: I used this tutorial from the easy tutorials YouTube channel as a guide to achieve the effect i wanted for this section. The link to the tutorial is here https://www.youtube.com/watch?v=t5pJ-SYCZa0
 
 ### **2.9 Contact Us Page**
 
@@ -322,7 +324,7 @@ You will then receive a confirmation saying the page has been published and also
 
 ![Image of page published confirmation](assets/images/github-pages-published.png)
 
-The link to view the site can be found [Here](https://smcgdub.github.io/Dirt-Be-Gone-MS1-Project-/index.html)
+The link to view the published site can be found by clicking [Here](https://smcgdub.github.io/Dirt-Be-Gone-MS1-Project-/index.html)
 
 ### **5.2 Cloning**
 
@@ -339,7 +341,7 @@ Cloning a repository using the command line
 4. From the menu select HTTPS
 5. Click on the clipboard icon on the right hand side (Image below)
 
-![Github code button](assets/images/github-clipboard.png)
+![Github copy link button](assets/images/github-clipboard.png)
 
 6. Open the terminal in your IDE
 7. Change the current working directory to the location where you want the cloned directory.
