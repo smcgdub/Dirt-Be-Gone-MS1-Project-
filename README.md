@@ -376,6 +376,7 @@ Licence information on the image can be found [Here](https://www.istockphoto.com
 Credit for the image goes to [Anastasia Gepp](https://pixabay.com/users/nastya_gepp-3773230/) <br>
 Licence information on the image can be found [Here](https://pixabay.com/service/license/)
 * The Dirt Be Gone logo was designed by Stephen Mc Govern who's project this is. The logo was designed on the [Canva Website](https://www.canva.com/)
+* Credit for the key safe product mentioned on the FAQ page under the question "Can i leave a key with my cleaner question?" goes to The Key Safe Company 
 
 ### **6.2 Code** 
 
