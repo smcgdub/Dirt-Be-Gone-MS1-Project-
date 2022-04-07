@@ -140,14 +140,7 @@ body {
 }
 
 .specialist-services-h2 {
-  margin-bottom: 0px;
-  padding-bottom: 0px;
   padding-top: 25px;
-}
-
-#cleaning-services-section {
-  margin-right: 10px;
-  margin-left: 10px;
 }
 
 h4 i {
@@ -171,14 +164,8 @@ h4 i {
   margin-bottom: 10px;
   margin-top: 10px;
 }
-.cleaning-services-p {
-  margin-bottom: 10px;
-  margin-left: 12px;
-  margin-right: 12px;
-}
 
 .card-h4 {
-  border-bottom: 1px solid rgba(0,0,0,.125);
   margin-bottom: 0px;
   padding-bottom: 12px;
 }
@@ -377,4 +364,41 @@ h4 i {
 
 .confirmation-p-2 {
   font-size: 20px;
+}
+
+
+
+
+.card-deck {
+  margin: 0 -15px;
+  justify-content: space-around;
+  /* padding-left: 10px;
+  padding-right: 10px; */
+}
+
+.card-deck .card {
+  /* margin: 0 0 1rem; */
+  margin: 5px;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .card-deck .card {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .card-deck .card {
+    -ms-flex: 0 0 48%;
+    flex: 0 0 48%;
+  }
+}
+
+@media (min-width: 992px)
+{
+  .card-deck .card {
+    -ms-flex: 0 0 32%;
+    flex: 0 0 32%;
+  }
 }
