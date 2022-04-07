@@ -137,6 +137,12 @@ body {
 .card {
   margin: 10px;
   border-radius: 5px;
+  border: 1px solid #de369d;
+}
+
+.card-body {
+  padding-bottom: 10px;
+  padding-top: 12px;
 }
 
 .specialist-services-h2 {
@@ -168,6 +174,8 @@ h4 i {
 .card-h4 {
   margin-bottom: 0px;
   padding-bottom: 12px;
+  /* background-color: #de369d;
+  color: #ffffff; */
 }
 
 /* OUR PROMISE --------------------------------------------------------------- */
