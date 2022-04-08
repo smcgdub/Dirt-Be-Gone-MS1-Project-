@@ -425,3 +425,8 @@ footer {
   margin: 0 auto;
   min-height: calc(100vh - 86px - 132px);
 }
+
+#index_page {
+  margin: 0 auto;
+  min-height: calc(100vh - 86px - 132px);
+}
