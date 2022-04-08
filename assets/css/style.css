@@ -12,7 +12,6 @@ body {
 }
 
 /* NAVBAR -------------------------------------------------------------- */
-
 .navbar {
   background-color: #de369d;
 }
@@ -28,11 +27,15 @@ body {
 
 /* FOOTER ----------------------------------------------------------------- */
 #footer {
+  text-align: center;
   background-color: #de369d;
+  color: #fff;
+  padding: 20px;
 }
 
 .footer {
   margin-top: 10px;
+  /* margin-top: 30vh; */
 }
 
 .footer-p-1 {
@@ -113,6 +116,11 @@ body {
 }
 
 /* ABOUT US --------------------------------------------------------------- */
+#about_us {
+  margin: 0 auto;
+  min-height: calc(100vh - 86px - 132px);
+}
+
 .about-h1 {
   margin-top: 20px;
   margin-bottom: 0px;
@@ -175,10 +183,6 @@ h4 i {
 }
 
 /* OUR PROMISE --------------------------------------------------------------- */
-/* .our-promise-h1 {
-  margin-top: 20px;
-} */
-
 .cleaner-image {
   border-radius: 50%;
 }
@@ -351,9 +355,14 @@ h4 i {
   padding-left: 20px;
 }
 
+#confirmation-page {
+  height: 73vh;
+}
+
 .confirmation-main {
   background-color: #ffffff;
 }
+
 .confirmation-p-1 {
   font-size: 20px;
   padding-top: 8px;
@@ -398,4 +407,16 @@ h4 i {
     -ms-flex: 0 0 32%;
     flex: 0 0 32%;
   }
+}
+
+#about_us {
+  margin: 0 auto;
+  min-height: calc(100vh - 86px - 132px);
+}
+
+footer {
+  text-align: center;
+  background-color: #de369d;
+  color: #fff;
+  padding: 20px;
 }
