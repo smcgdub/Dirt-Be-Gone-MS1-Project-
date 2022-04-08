@@ -350,14 +350,19 @@ h4 i {
   height: 500px;
 }
 /* MESSAGE RECEIVED PAGE --------------------------------------------------------------- */
+.alert-success {
+  border: none;
+  margin-top: 10rem;
+}
+
 .fa-check-square:before {
   font-size: 36px;
   padding-left: 20px;
 }
 
-#confirmation-page {
+/* #confirmation-page {
   height: 73vh;
-}
+} */
 
 .confirmation-main {
   background-color: #ffffff;
@@ -427,6 +432,11 @@ footer {
 }
 
 #index_page {
+  margin: 0 auto;
+  min-height: calc(100vh - 86px - 132px);
+}
+
+#confirmation-page {
   margin: 0 auto;
   min-height: calc(100vh - 86px - 132px);
 }
