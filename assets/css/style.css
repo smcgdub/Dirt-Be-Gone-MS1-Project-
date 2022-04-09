@@ -55,6 +55,14 @@ body {
   color: #ffffff;
 }
 
+.ftr-p {
+  color: #fff;
+}
+
+.ftr-p:hover {
+  color: #fff;
+}
+
 .fa-facebook-square:before {
   color: #ffffff;
   font-size: 55px;
